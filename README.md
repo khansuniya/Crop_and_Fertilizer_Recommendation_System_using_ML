@@ -1,5 +1,3 @@
-### README: Crop and Fertilizer Recommendation System
-
 # Crop and Fertilizer Recommendation System using Machine Learning
 
 ## About the Project
